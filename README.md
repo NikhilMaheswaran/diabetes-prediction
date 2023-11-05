@@ -7,6 +7,7 @@ Introduction:
     
 DEPENDENCIES:
      Before running the code, make sure you have the following dependencies installed:
+
 #Python (>=3.6)
 #NumPy
 #Pandas
@@ -15,10 +16,13 @@ DEPENDENCIES:
 #Scikit-Learn
 
 IN COLAB NOTEBOOK:
+
         We can read a dataset using "pd.read_csv('diabetes.csv')"
+        
 IN THIS COLAB NOTEBOOK WE LOAD THE DATASET USING THE NAME "diabetes_dataset".
 
- ## How to Open the Colab Notebook
+## How to Open the Colab Notebook
+
 To open and run the Colab notebook, follow these steps:
 
 1. Click on the Colab notebook link provided in the repository.
